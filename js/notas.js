@@ -24,6 +24,15 @@ const notas = [
         nombreBoton: "OV/Scrap"
     },
     {
+        titulo: "Carta 9801",
+        contenido: [
+            "Racturas RT, A1-MP, RETEQ,",
+            "1 dll por partida",
+            "Leyenda de retorno 3.1.23",
+        ],
+        nombreBoton: "Carta 9801"
+    },
+    {
         titulo: "9802",
         contenido: "Si los E tienen 9802 son MX",
         nombreBoton: "9802"
@@ -132,3 +141,4 @@ const notas = [
         nombreBoton: "Direcciones"
     }
 ];
+
