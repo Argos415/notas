@@ -26,7 +26,7 @@ const notas = [
     {
         titulo: "Carta 9801",
         contenido: [
-            "Racturas RT-MP, A1-MP, A1-MQ, RETEQ,",
+            "Facturas RT-MP, A1-MP, A1-MQ, RETEQ,",
             "Todas estas facturas llevan carta 9801",
         ],
         nombreBoton: "Carta 9801"
@@ -140,5 +140,6 @@ const notas = [
         nombreBoton: "Direcciones"
     }
 ];
+
 
 
