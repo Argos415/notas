@@ -26,9 +26,8 @@ const notas = [
     {
         titulo: "Carta 9801",
         contenido: [
-            "Racturas RT, A1-MP, RETEQ,",
-            "1 dll por partida",
-            "Leyenda de retorno 3.1.23",
+            "Racturas RT-MP, A1-MP, A1-MQ, RETEQ,",
+            "Todas estas facturas llevan carta 9801",
         ],
         nombreBoton: "Carta 9801"
     },
@@ -141,4 +140,5 @@ const notas = [
         nombreBoton: "Direcciones"
     }
 ];
+
 
